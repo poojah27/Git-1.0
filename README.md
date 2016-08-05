@@ -1,1 +1,2 @@
-workshop README file.
+Workshop README file.
+Added new line
